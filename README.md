@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">Pre-Final Year student at Indian Institute of Information Technology, Dharwad. Machine Learning and Competitive Coding Enthusiast.</h3>
 
-- 🔭 I’m currently working on **javascript project by creating a clone of Amazon.com**
+- 🔭 I’m currently working on **vanilla javascript project by creating a clone of Amazon.com**
 
 - 🌱 I’m currently learning **Back-end Development**
 
