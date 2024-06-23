@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, This is Saksham</h1>
-<h3 align="center">Passionate about learning full-stack development and creating software with stunning UI to enhance user experience.</h3>
+<h3 align="center">A full-stack development enthusiast with more than a year of experience in building applications focusing on solving real-world problems.</h3>
 
 - Recently finished a Full-Stack project and created a Social Media App [Snapgram](https://snapgram-rho-seven.vercel.app/)
 
