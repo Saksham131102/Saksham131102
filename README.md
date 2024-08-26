@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, This is Saksham</h1>
 <h3 align="center">A full-stack development enthusiast with more than a year of experience in building applications focusing on solving real-world problems.</h3>
 
-- Recently finished a Full-Stack project and created a Social Media App [Snapgram](https://snapgram-rho-seven.vercel.app/)
+- Recently finished a MERN Stack project and created a Streaming Application [StreamChat](https://streamchat1.netlify.app)
 
 - I’m currently learning **Full-Stack Development**
 
