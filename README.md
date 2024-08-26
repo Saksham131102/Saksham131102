@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, This is Saksham</h1>
 <h3 align="center">A full-stack development enthusiast with more than a year of experience in building applications focusing on solving real-world problems.</h3>
 
-- Recently finished a MERN Stack project and created a Streaming Application [StreamChat](https://streamchat1.netlify.app)
+- Recently finished a MERN Stack project and created a Streaming Application [StreamChat](https://streamchat1.netlify.app), that brings people together by making it possible to chat and watch movies, T.V. shows, Web Series together in real-time.
 
-- I’m currently learning **Full-Stack Development**
+- I’m currently learning **Machine Learning**
 
 - Ask me about **Data Structure and Algorithms**
 
-- How to reach me **saksham00013@gmail.com**
+- How to reach me **saksham44444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
